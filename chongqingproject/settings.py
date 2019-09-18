@@ -54,7 +54,7 @@ DOWNLOAD_DELAY = 0.2
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
    'chongqingproject.middlewares.MyUseragent': 543,
-   'chongqingproject.middlewares.AbuyunProxyMiddleware': 544,
+   #'chongqingproject.middlewares.AbuyunProxyMiddleware': 544,
 }
 
 # Enable or disable extensions
