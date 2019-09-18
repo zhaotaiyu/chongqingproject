@@ -5,8 +5,7 @@
 # See documentation in:
 # https://doc.scrapy.org/en/latest/topics/spider-middleware.html
 import base64
-import time,random
-from scrapy import signals
+import random
 
 class MyUseragent(object):
     def process_request(self,request,spider):

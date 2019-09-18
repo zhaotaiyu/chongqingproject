@@ -16,7 +16,7 @@ class ChongqingSpider(scrapy.Spider):
     # start_urls = ['http://183.66.171.75:88/CQCollect/Qy_Query/Zljcjg/Zljcjg_List.aspx']
     # start_urls = ['http://183.66.171.75:88/CQCollect/Qy_Query/Zjzxjg/Zjzxjg_List.aspx']
     # start_urls = ['http://183.66.171.75:88/CQCollect/Qy_Query/Zjzxjg/Wd_Zjzxjg_List.aspx']
-    start_urls = ['http://183.66.171.75:88/CQCollect/Qy_Query/YhzSgqy/YhzSgqy_List.aspx','http://183.66.171.75:88/CQCollec/Qy_Query/Ryxxbs/Rybabs_List.aspx','http://183.66.171.75:88/CQCollect/Qy_Query/Jlqy/Jlqy_List.aspx''http://183.66.171.75:8/CQCollect/Qy_Query/Jlqy/WdJlqy_List.aspx','http://183.66.171.75:88/CQCollect/Qy_Query/Hntqy/Hntqy_List.aspx''http://183.66.17.75:88/CQCollect/Qy_Query/Zbdljg/Zbdljg_List.aspx','http://183.66.171.75:88/CQCollect/Qy_Query/Zljcjg/Zljcjg_List.aspx']
+    start_urls = ['http://183.66.171.75:88/CQCollect/Qy_Query/YhzSgqy/YhzSgqy_List.aspx','http://183.66.171.75:88/CQCollect/Qy_Query/Ryxxbs/Rybabs_List.aspx','http://183.66.171.75:88/CQCollect/Qy_Query/Jlqy/Jlqy_List.aspx','http://183.66.171.75:88/CQCollect/Qy_Query/Hntqy/Hntqy_List.aspx','http://183.66.171.75:88/CQCollect/Qy_Query/Zbdljg/Zbdljg_List.aspx','http://183.66.171.75:88/CQCollect/Qy_Query/Zljcjg/Zljcjg_List.aspx','http://183.66.171.75:88/CQCollect/Qy_Query/Zjzxjg/Zjzxjg_List.aspx','http://183.66.171.75:88/CQCollect/Qy_Query/Zjzxjg/Wd_Zjzxjg_List.aspx','http://183.66.171.75:88/CQCollect/Qy_Query/Jlqy/WdJlqy_List.aspx']
 
     def parse(self, response):
         __VIEWSTATE = response.xpath("//input[@name='__VIEWSTATE']/@value").extract_first()
