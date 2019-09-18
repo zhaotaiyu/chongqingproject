@@ -9,7 +9,6 @@ class ChongqingSpider(scrapy.Spider):
     allowed_domains = ['183.66.171.75']
     #start_urls = ['http://183.66.171.75:88/CQCollect/Qy_Query/YhzSgqy/YhzSgqy_List.aspx']
     #start_urls = ['http://183.66.171.75:88/CQCollect/Qy_Query/Ryxxbs/Rybabs_List.aspx']
-
     # start_urls = ['http://183.66.171.75:88/CQCollect/Qy_Query/Jlqy/Jlqy_List.aspx']
     # start_urls = ['http://183.66.171.75:88/CQCollect/Qy_Query/Jlqy/WdJlqy_List.aspx']
     # start_urls = ['http://183.66.171.75:88/CQCollect/Qy_Query/Hntqy/Hntqy_List.aspx']
@@ -130,13 +129,12 @@ class ChongqingSpider(scrapy.Spider):
                 }
                 yield FormRequest(response.url, formdata=formdata2, callback=self.parse_waidizaojiazixun_person)
         if int(total_page) > int(now_page):
-            # if int(now_page)<100:
+        #if int(now_page)<5:
             formdata = {
                 '__EVENTTARGET': __EVENTTARGET,
                 '__VIEWSTATE': __VIEWSTATE
             }
             yield FormRequest(response.url, formdata=formdata, callback=self.parse)
-
     def parse_middle(self, response):
         print(response.url)
         if response.url == "http://183.66.171.75:88/CQCollect/Qy_Query/YhzSgqy/YhzSgqy_List.aspx":
@@ -152,8 +150,7 @@ class ChongqingSpider(scrapy.Spider):
                   response.xpath("//script[1]/text()").extract_first().split("'")[1]
             yield Request(url, callback=self.parse_zhaobiaodaili)
 
-        # 施工企业
-
+    # 施工企业
     def parse_shigong(self, response):
         c_info = CompanyInformationItem()
         c_info["name"] = response.xpath("//span[@id='txt_Name']/text()").extract_first()

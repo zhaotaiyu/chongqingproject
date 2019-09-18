@@ -4,10 +4,11 @@
 #
 # See documentation in:
 # https://doc.scrapy.org/en/latest/topics/spider-middleware.html
+import base64
 import time,random
 from scrapy import signals
 
-class MyUseragent():
+class MyUseragent(object):
     def process_request(self,request,spider):
         USER_AGENT_LIST = [
         'MSIE (MSIE 6.0; X11; Linux; i686) Opera 7.23',
@@ -24,3 +25,19 @@ class MyUseragent():
             ]
         agent = random.choice(USER_AGENT_LIST)
         request.headers['User_Agent'] =agent
+class AbuyunProxyMiddleware(object):
+    def __init__(self,proxyuser,proxypass,proxyserver):
+        self.proxyuser = proxyuser
+        self.proxypass = proxypass
+        self.proxyserver = proxyserver
+        self.proxyauth = "Basic " + base64.urlsafe_b64encode(bytes((self.proxyuser + ":" + self.proxypass), "ascii")).decode("utf8")
+    def process_request(self,request,spider):
+        request.meta["proxy"] = self.proxyserver
+        request.headers["Proxy-Authorization"] = self.proxyauth
+    @classmethod
+    def from_crawler(cls,crawler):
+        return cls(
+            proxyuser=crawler.settings.get("PROXYUSER"),
+            proxypass=crawler.settings.get("PROXYPASS"),
+            proxyserver=crawler.settings.get("PROXYSERVER"),
+        )

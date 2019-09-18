@@ -54,6 +54,7 @@ DOWNLOAD_DELAY = 0.2
 # See https://doc.scrapy.org/en/latest/topics/downloader-middleware.html
 DOWNLOADER_MIDDLEWARES = {
    'chongqingproject.middlewares.MyUseragent': 543,
+   'chongqingproject.middlewares.AbuyunProxyMiddleware': 544,
 }
 
 # Enable or disable extensions
@@ -101,3 +102,12 @@ PGSQL_PORT=54321
 MONGOCLIENT='mongodb://ecs-a025-0002:27017/'
 MONGODATABASE='chongqing'
 MONGOTABLE='chongqing'
+
+DOWNLOAD_TIMEOUT=100
+RETRY_HTTP_CODES = [500, 502, 503, 504, 400, 403, 408, 429, 407]
+RETRY_TIMES = 10
+
+#abuyun代理配置
+PROXYUSER="HKB7XCN8AV20UJZD"
+PROXYPASS="177A2E10EE78A181"
+PROXYSERVER="http://http-dyn.abuyun.com:9020"
