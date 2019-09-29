@@ -191,7 +191,6 @@ class ChongqingSpider(scrapy.Spider):
                 apt_info["level"] = tr.xpath("./td[5]/text()").extract_first()
                 apt_info["aptitude_ser"] = tr.xpath("./td[6]/text()").extract_first()
                 apt_info["aptitude_usefultime"] = tr.xpath("./td[7]/text()").extract_first()
-                apt_info["certificate_company_name"] = c_info["company_name"]
                 yield apt_info
 
         # 外地施工入渝信息报送企业
@@ -227,7 +226,6 @@ class ChongqingSpider(scrapy.Spider):
                 apt_info["aptitude_small"] = tr.xpath("./td[4]/text()").extract_first()
                 apt_info["level"] = tr.xpath("./td[5]/text()").extract_first()
                 apt_info["aptitude_usefultime"] = tr.xpath("./td[6]/text()").extract_first()
-                apt_info["certificate_company_name"] = c_info["company_name"]
                 yield apt_info
         __VIEWSTATE = response.xpath("//input[@name='__VIEWSTATE']/@value").extract_first()
         # 职称人员按钮

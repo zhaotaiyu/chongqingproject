@@ -51,7 +51,6 @@ class CompanyInformationItem(scrapy.Item):
 	modification_time = scrapy.Field()
 	is_delete = scrapy.Field()
 
-
 class PersonInformationItem(scrapy.Item):
 	collection = "chongqing.personinformation"
 	person_name = scrapy.Field()
@@ -138,4 +137,3 @@ class BeianItem(scrapy.Item):
 
 
 
-	
