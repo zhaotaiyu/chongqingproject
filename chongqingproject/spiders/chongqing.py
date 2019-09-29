@@ -140,8 +140,8 @@ class ChongqingSpider(scrapy.Spider):
                 }
                 yield FormRequest(response.url, formdata=formdata, callback=self.parse_waidizaojiazixun,dont_filter=True,meta={"formdata2":formdata2,"url":response.url})
 
-        #if int(total_page) > int(now_page):
-        if int(now_page)<5:
+        if int(total_page) > int(now_page):
+        #if int(now_page)<5:
             formdata = {
                 '__EVENTTARGET': __EVENTTARGET,
                 '__VIEWSTATE': __VIEWSTATE
