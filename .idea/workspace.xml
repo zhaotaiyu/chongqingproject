@@ -1,7 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="230a5032-d439-4a9a-a637-8d4ce295fcc8" name="Default" comment="" />
+    <list default="true" id="230a5032-d439-4a9a-a637-8d4ce295fcc8" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../chongqingpersonproject/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sikucreditproject/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sikucreditproject/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sikucreditproject/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sikucreditproject/.idea/sikucreditproject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../sikucreditproject/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/chongqingproject.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/chongqingproject.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chongqingproject/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/chongqingproject/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chongqingproject/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/chongqingproject/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/chongqingproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/chongqingproject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../provinceproject/provinceproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../provinceproject/provinceproject/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../provinceproject/provinceproject/spiders/anhui.py" beforeDir="false" afterPath="$PROJECT_DIR$/../provinceproject/provinceproject/spiders/anhui.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../provinceproject/provinceproject/spiders/guangxi.py" beforeDir="false" afterPath="$PROJECT_DIR$/../provinceproject/provinceproject/spiders/guangxi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../provinceproject/provinceproject/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/../provinceproject/provinceproject/start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../sikucreditproject/sikucreditproject/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/../sikucreditproject/sikucreditproject/pipelines.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +29,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/chongqingproject$start.coverage" NAME="start Coverage Results" MODIFIED="1568250077539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chongqingproject" />
+    <SUITE FILE_PATH="coverage/chongqingproject$start__3_.coverage" NAME="start (3) Coverage Results" MODIFIED="1569744297931" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../chongqingpersonproject" />
+    <SUITE FILE_PATH="coverage/chongqingproject$start.coverage" NAME="start Coverage Results" MODIFIED="1569808043048" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/chongqingproject" />
+    <SUITE FILE_PATH="coverage/chongqingproject$utils.coverage" NAME="utils Coverage Results" MODIFIED="1568944267461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../provinceproject/provinceproject" />
+    <SUITE FILE_PATH="coverage/chongqingproject$start__1_.coverage" NAME="start (1) Coverage Results" MODIFIED="1569805962320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sikuyiproject" />
+    <SUITE FILE_PATH="coverage/chongqingproject$start__5_.coverage" NAME="start (5) Coverage Results" MODIFIED="1569737161959" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sikucreditproject" />
+    <SUITE FILE_PATH="coverage/chongqingproject$start__2_.coverage" NAME="start (2) Coverage Results" MODIFIED="1569488696512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sikuyiproject/sikuyiproject/spiders" />
+    <SUITE FILE_PATH="coverage/chongqingproject$start__4_.coverage" NAME="start (4) Coverage Results" MODIFIED="1569488680479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../sikuyiproject/sikuyiproject" />
   </component>
   <component name="DaemonCodeAnalyzer">
     <disable_hints>
@@ -28,31 +54,39 @@
     <session id="1079576799">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="11" />
+          <entry key="project.open.time.0" value="1" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.2" value="1" />
-          <entry key="project.open.time.3" value="1" />
-          <entry key="project.opened" value="2" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="4" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.opened" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="29" />
+          <entry key="Python Console" value="81" />
+          <entry key="py" value="7373" />
+          <entry key="txt" value="291" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="29" />
+          <entry key="PLAIN_TEXT" value="291" />
+          <entry key="Python" value="7454" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="cn/zty-c/Desktop/chongqingproject" value="1" />
-          <entry key="py" value="5" />
+          <entry key="py" value="219" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="5" />
+          <entry key="Python" value="219" />
           <entry key="UML" value="1" />
         </counts>
       </usages-collector>
@@ -64,24 +98,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/chongqingproject/spiders/chongqing.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="484">
-              <caret line="65" column="28" lean-forward="true" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
-              <folding>
-                <element signature="e#23#62#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chongqingproject/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="384">
-              <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
+            <state relative-caret-position="696">
+              <caret line="61" column="36" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
               <folding>
-                <element signature="e#193#208#0" expanded="true" />
+                <element signature="e#194#230#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -90,8 +112,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chongqingproject/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="354">
-              <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+            <state relative-caret-position="1621">
+              <caret line="70" column="57" lean-forward="true" selection-start-line="70" selection-start-column="57" selection-end-line="70" selection-end-column="57" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chongqingproject/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="318">
+              <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -105,6 +136,44 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>http://183.66.171.75:88/CQCollect/Qy_Query/Zjzxjg/Zjzxjg_List.aspx</find>
+      <find>filtered</find>
+      <find>dupe</find>
+      <find>fi</find>
+      <find>http://183.66.171.75:88/CQCollect/Ry_Query/zcjzs/Wright_List.aspx</find>
+      <find>http://gcxm.hunanjs.gov.cn/AjaxHandler/PersonHandler.ashx?method=GetListPage&amp;type=1&amp;corptype_1=&amp;corpname_1=&amp;licensenum_1=&amp;Province_1=430000&amp;City_1=&amp;county_1=&amp;persontype=&amp;persontype_2=&amp;personname_2=&amp;idcard_2=&amp;certnum_2=&amp;corpname_2=&amp;prjname_3=&amp;corpname_3=&amp;prjtype_3=&amp;cityname_3=&amp;year_4=&amp;jidu_4=&amp;corpname_4=&amp;corpname_5=&amp;corpcode_5=&amp;legalman_5=&amp;cityname_5=&amp;SafeNum_6=&amp;corpname_6=&amp;pageSize=30&amp;pageIndex=2</find>
+      <find>fil</find>
+      <find>filt</find>
+      <find>429</find>
+      <find>http://gcxm.hunanjs.gov.cn/AjaxHandler/PersonHandler.ashx?method=GetListPage&amp;type=5&amp;corptype_1=&amp;corpname_1=&amp;licensenum_1=&amp;Province_1=430000&amp;City_1=&amp;county_1=&amp;persontype=&amp;persontype_2=&amp;personname_2=&amp;idcard_2=&amp;certnum_2=&amp;corpname_2=&amp;prjname_3=&amp;corpname_3=&amp;prjtype_3=&amp;cityname_3=&amp;year_4=2019&amp;jidu_4=2&amp;corpname_4=&amp;corpname_5=&amp;corpcode_5=&amp;legalman_5=&amp;cityname_5=&amp;SafeNum_6=&amp;corpname_6=&amp;pageSize=30&amp;pageIndex=1</find>
+      <find>__EVENTVALIDATION</find>
+      <find>id</find>
+      <find>c_info[&quot;company_name&quot;] = response.xpath(&quot;//div[@class='user_info spmtop']/b/text()&quot;).extract_first().strip()</find>
+      <find>good_behavior_url = &quot;http://jzsc.mohurd.gov.cn&quot; + good_behavior_url</find>
+      <find>chongqing_1569383961944</find>
+      <find>chongqing_1569391364294</find>
+      <find>filter</find>
+      <find>__EVENTTARGET</find>
+      <find>certificate_type</find>
+      <find>certificate_name</find>
+      <find>parse_person_blacklist</find>
+      <find>company</find>
+      <find>2018-RY-0157</find>
+      <find>20190105</find>
+      <find>20190107</find>
+      <find>in_date</find>
+      <find>year</find>
+      <find>project_main</find>
+      <find>certificate_company_name</find>
+      <find>error</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/chongqingproject/settings.py" root0="SKIP_INSPECTION" />
     <setting file="file://$PROJECT_DIR$/chongqingproject/spiders/chongqing.py" root0="FORCE_HIGHLIGHTING" />
@@ -112,10 +181,53 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/chongqingproject/pipelines.py" />
-        <option value="$PROJECT_DIR$/chongqingproject/settings.py" />
-        <option value="$PROJECT_DIR$/chongqingproject/spiders/chongqing.py" />
         <option value="$PROJECT_DIR$/chongqingproject/start.py" />
+        <option value="$PROJECT_DIR$/chongqingproject/middlewares.py" />
+        <option value="$PROJECT_DIR$/../provinceproject/provinceproject/spiders/qinghai.py" />
+        <option value="$PROJECT_DIR$/../provinceproject/provinceproject/spiders/hainan.py" />
+        <option value="$PROJECT_DIR$/../provinceproject/provinceproject/spiders/zhejiang.py" />
+        <option value="$PROJECT_DIR$/../provinceproject/provinceproject/utils.py" />
+        <option value="$PROJECT_DIR$/../provinceproject/provinceproject/spiders/hubei.py" />
+        <option value="$PROJECT_DIR$/../provinceproject/provinceproject/spiders/zhejiangbeian.py" />
+        <option value="$PROJECT_DIR$/../provinceproject/provinceproject/middlewares.py" />
+        <option value="$PROJECT_DIR$/../provinceproject/provinceproject/spiders/hunan.py" />
+        <option value="$PROJECT_DIR$/../provinceproject/provinceproject/spiders/shandong.py" />
+        <option value="$PROJECT_DIR$/../provinceproject/provinceproject/spiders/neimenggu.py" />
+        <option value="$PROJECT_DIR$/../qinghaiproject/qinghaiproject/start.py" />
+        <option value="$PROJECT_DIR$/../qinghaiproject/qinghaiproject/pipelines.py" />
+        <option value="$PROJECT_DIR$/../qinghaiproject/qinghaiproject/settings.py" />
+        <option value="$PROJECT_DIR$/../qinghaiproject/qinghaiproject/spiders/qinghai.py" />
+        <option value="$PROJECT_DIR$/../provinceproject/provinceproject/spiders/beijing.py" />
+        <option value="$PROJECT_DIR$/../provinceproject/provinceproject/spiders/anhui.py" />
+        <option value="$PROJECT_DIR$/../provinceproject/provinceproject/start.py" />
+        <option value="$PROJECT_DIR$/../provinceproject/provinceproject/settings.py" />
+        <option value="$PROJECT_DIR$/../provinceproject/provinceproject/spiders/guangxi.py" />
+        <option value="$PROJECT_DIR$/../sikuyiproject/sikuyiproject/spiders/start.py" />
+        <option value="$PROJECT_DIR$/../sikuyiproject/sikuyiproject/items.py" />
+        <option value="$PROJECT_DIR$/../sikucreditproject/start.py" />
+        <option value="$PROJECT_DIR$/../sikucreditproject/sikucreditproject/middlewares.py" />
+        <option value="$PROJECT_DIR$/../sikucreditproject/sikucreditproject/utils.py" />
+        <option value="$PROJECT_DIR$/../sikucreditproject/sikucreditproject/assist.py" />
+        <option value="$PROJECT_DIR$/../sikucreditproject/sikucreditproject/items.py" />
+        <option value="$PROJECT_DIR$/../sikuyiproject/sikuyiproject/middlewares.py" />
+        <option value="$PROJECT_DIR$/../sikuyiproject/sikuyiproject/utils.py" />
+        <option value="$PROJECT_DIR$/../sikuyiproject/sikuyiproject/pipelines.py" />
+        <option value="$PROJECT_DIR$/../sikucreditproject/sikucreditproject/__init__.py" />
+        <option value="$PROJECT_DIR$/../sikucreditproject/sikucreditproject/spiders/sikucredit.py" />
+        <option value="$PROJECT_DIR$/../sikucreditproject/sikucreditproject/settings.py" />
+        <option value="$PROJECT_DIR$/../chongqingpersonproject/chongqingpersonproject/spiders/chongqingperson.py" />
+        <option value="$PROJECT_DIR$/../chongqingpersonproject/chongqingpersonproject/pipelines.py" />
+        <option value="$PROJECT_DIR$/../chongqingpersonproject/chongqingpersonproject/items.py" />
+        <option value="$PROJECT_DIR$/../chongqingpersonproject/chongqingpersonproject/settings.py" />
+        <option value="$PROJECT_DIR$/../qinghaiproject/qinghaiproject/items.py" />
+        <option value="$PROJECT_DIR$/chongqingproject/spiders/chongqing.py" />
+        <option value="$PROJECT_DIR$/../sikuyiproject/sikuyiproject/spiders/sikuyi.py" />
+        <option value="$PROJECT_DIR$/../sikuyiproject/sikuyiproject/settings.py" />
+        <option value="$PROJECT_DIR$/../sikuyiproject/start.py" />
+        <option value="$PROJECT_DIR$/../sikucreditproject/sikucreditproject/pipelines.py" />
+        <option value="$PROJECT_DIR$/chongqingproject/settings.py" />
+        <option value="$PROJECT_DIR$/chongqingproject/items.py" />
+        <option value="$PROJECT_DIR$/chongqingproject/pipelines.py" />
       </list>
     </option>
   </component>
@@ -127,14 +239,16 @@
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-7" />
-    <option name="width" value="1934" />
+    <option name="width" value="974" />
     <option name="height" value="1177" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -147,17 +261,38 @@
               <item name="chongqingproject" type="462c0819:PsiDirectoryNode" />
               <item name="chongqingproject" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="chongqingproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sikucreditproject" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="chongqingproject" type="b2602c69:ProjectViewProjectNode" />
+              <item name="sikucreditproject" type="462c0819:PsiDirectoryNode" />
+              <item name="sikucreditproject" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/OneDrive/OneDrive - stu.cdu.edu.cn/zty-c/Desktop/chongqingpersonproject/chongqingpersonproject/pipelines.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../chongqingpersonproject" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../sikucreditproject" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\OneDrive\OneDrive - stu.cdu.edu.cn\zty-c\Desktop\sikuyiproject" />
+      <recent name="E:\OneDrive\OneDrive - stu.cdu.edu.cn\zty-c\Desktop\qinghaiproject\qinghaiproject" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\OneDrive\OneDrive - stu.cdu.edu.cn\zty-c\Desktop\chongqingpersonproject" />
+      <recent name="E:\OneDrive\OneDrive - stu.cdu.edu.cn\zty-c\Desktop\sikuyiproject" />
+      <recent name="E:\OneDrive\OneDrive - stu.cdu.edu.cn\zty-c\Desktop\sikuyiproject\sikuyiproject" />
+      <recent name="E:\OneDrive\OneDrive - stu.cdu.edu.cn\zty-c\Desktop\sikuyiproject\sikuyiproject\spiders" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -171,7 +306,95 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.start">
+    <configuration name="start (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sikuyiproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../sikuyiproject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../sikuyiproject/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sikuyiproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../sikuyiproject/sikuyiproject/spiders" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="E:\OneDrive\OneDrive - stu.cdu.edu.cn\zty-c\Desktop\sikuyiproject\start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="chongqingpersonproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../chongqingpersonproject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../chongqingpersonproject/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="start (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="sikucreditproject" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../sikucreditproject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../sikucreditproject/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="chongqingproject" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -194,9 +417,20 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.start" />
+      <item itemvalue="Python.start (2)" />
+      <item itemvalue="Python.start (5)" />
+      <item itemvalue="Python.start (3)" />
+      <item itemvalue="Python.start (1)" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Python.start" />
+        <item itemvalue="Python.start (1)" />
+        <item itemvalue="Python.start (3)" />
+        <item itemvalue="Python.start (5)" />
+        <item itemvalue="Python.start (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -211,6 +445,217 @@
       <option name="presentableId" value="Default" />
       <updated>1568186488690</updated>
     </task>
+    <task id="LOCAL-00001" summary="增加代理，添加retry_code">
+      <created>1568788848562</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568788848562</updated>
+    </task>
+    <task id="LOCAL-00002" summary="增加代理，添加修改起始url">
+      <created>1568797651614</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1568797651614</updated>
+    </task>
+    <task id="LOCAL-00003" summary="调试青海 V1.0.0">
+      <created>1568859709309</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1568859709309</updated>
+    </task>
+    <task id="LOCAL-00004" summary="调试浙江 V1.0.0">
+      <created>1568875129147</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568875129147</updated>
+    </task>
+    <task id="LOCAL-00005" summary="调试重庆人员 V1.0.0">
+      <created>1568881129585</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1568881129585</updated>
+    </task>
+    <task id="LOCAL-00006" summary="调试浙江备案 V1.0.0">
+      <created>1568886292974</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1568886292974</updated>
+    </task>
+    <task id="LOCAL-00007" summary="调试浙江备案 V1.0.1  （修改延时时间）">
+      <created>1568886459480</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1568886459480</updated>
+    </task>
+    <task id="LOCAL-00008" summary="调试重庆人员 V1.0.1  （添加如果未返回数据，写入mongodb）">
+      <created>1568942637195</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1568942637195</updated>
+    </task>
+    <task id="LOCAL-00009" summary="调试">
+      <created>1568970116807</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1568970116807</updated>
+    </task>
+    <task id="LOCAL-00010" summary="调试">
+      <created>1568970241320</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1568970241320</updated>
+    </task>
+    <task id="LOCAL-00011" summary="调试">
+      <created>1569201940169</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1569201940169</updated>
+    </task>
+    <task id="LOCAL-00012" summary="调试 湖南 安徽">
+      <created>1569208270712</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1569208270712</updated>
+    </task>
+    <task id="LOCAL-00013" summary="修改 安徽 北京  内蒙古">
+      <created>1569414268179</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1569414268179</updated>
+    </task>
+    <task id="LOCAL-00014" summary="测试">
+      <created>1569492430941</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1569492430941</updated>
+    </task>
+    <task id="LOCAL-00015" summary="测试2">
+      <created>1569493256175</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1569493256175</updated>
+    </task>
+    <task id="LOCAL-00016" summary="测试3">
+      <created>1569547785335</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1569547785335</updated>
+    </task>
+    <task id="LOCAL-00017" summary="V1.0.0">
+      <created>1569555626912</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1569555626912</updated>
+    </task>
+    <task id="LOCAL-00018" summary="V1.1.0">
+      <created>1569563960837</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1569563960837</updated>
+    </task>
+    <task id="LOCAL-00019" summary="V1.2.0">
+      <created>1569574501703</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1569574501703</updated>
+    </task>
+    <task id="LOCAL-00020" summary="V1.1.0">
+      <created>1569578677150</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1569578677150</updated>
+    </task>
+    <task id="LOCAL-00021" summary="企业数量测试">
+      <created>1569720844650</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1569720844650</updated>
+    </task>
+    <task id="LOCAL-00022" summary="增加代理">
+      <created>1569722135557</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1569722135557</updated>
+    </task>
+    <task id="LOCAL-00023" summary="V1.0.0">
+      <created>1569725196893</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1569725196893</updated>
+    </task>
+    <task id="LOCAL-00024" summary="添加HTTPERROR_ALLOW_CODES">
+      <created>1569725708431</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1569725708431</updated>
+    </task>
+    <task id="LOCAL-00025" summary="修改如果record_num是None得逻辑">
+      <created>1569726448536</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1569726448536</updated>
+    </task>
+    <task id="LOCAL-00026" summary="V1.2.2">
+      <created>1569737241317</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1569737241317</updated>
+    </task>
+    <task id="LOCAL-00027" summary="V1.2.3  (添加安全狗认证timeout）">
+      <created>1569737924601</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1569737924601</updated>
+    </task>
+    <task id="LOCAL-00028" summary="V2.0.0">
+      <created>1569739019992</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1569739019992</updated>
+    </task>
+    <task id="LOCAL-00029" summary="V2.0.0">
+      <created>1569745759849</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1569745759849</updated>
+    </task>
+    <task id="LOCAL-00030" summary="V2.1.0">
+      <created>1569753631018</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1569753631018</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TodoView">
@@ -224,21 +669,23 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1186" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18176973" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15458423" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32414448" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49840087" weight="0.33872503" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49946696" weight="0.3996194" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.3298479" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.49946696" weight="0.2946768" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50053304" side_tool="true" weight="0.3298479" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.3298479" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32921028" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32975295" />
+      <window_info anchor="bottom" id="Terminal" order="8" sideWeight="0.4989339" weight="0.25499526" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50159913" side_tool="true" weight="0.37583253" />
+      <window_info anchor="bottom" id="Python Console" order="10" weight="0.15318744" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -255,21 +702,54 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="增加代理，添加retry_code" />
+    <MESSAGE value="增加代理，添加修改起始url" />
+    <MESSAGE value="调试青海 V1.0.0" />
+    <MESSAGE value="调试浙江 V1.0.0" />
+    <MESSAGE value="调试重庆人员 V1.0.0" />
+    <MESSAGE value="调试浙江备案 V1.0.0" />
+    <MESSAGE value="调试浙江备案 V1.0.1  （修改延时时间）" />
+    <MESSAGE value="调试重庆人员 V1.0.1  （添加如果未返回数据，写入mongodb）" />
+    <MESSAGE value="调试" />
+    <MESSAGE value="调试 湖南 安徽" />
+    <MESSAGE value="修改 安徽 北京  内蒙古" />
+    <MESSAGE value="测试" />
+    <MESSAGE value="测试2" />
+    <MESSAGE value="测试3" />
+    <MESSAGE value="V1.2.0" />
+    <MESSAGE value="V1.1.0" />
+    <MESSAGE value="企业数量测试" />
+    <MESSAGE value="增加代理" />
+    <MESSAGE value="V1.0.0" />
+    <MESSAGE value="添加HTTPERROR_ALLOW_CODES" />
+    <MESSAGE value="修改如果record_num是None得逻辑" />
+    <MESSAGE value="V1.2.2" />
+    <MESSAGE value="V1.2.3  (添加安全狗认证timeout）" />
+    <MESSAGE value="V2.0.0" />
+    <MESSAGE value="V2.1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="V2.1.0" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/chongqingproject/settings.py">
+    <entry file="file://$PROJECT_DIR$/../provinceproject/provinceproject/spiders/gansu.py" />
+    <entry file="file://D:/Anaconda3/pkgs/jupyterlab_launcher-0.10.5-py36_0/Lib/site-packages/jupyterlab_launcher/tests/utils.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="354">
-          <caret line="21" column="22" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        <state relative-caret-position="407">
+          <caret line="118" column="13" selection-start-line="118" selection-start-column="13" selection-end-line="118" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/chongqingproject/pipelines.py">
+    <entry file="file://$PROJECT_DIR$/../qinghaiproject/qinghaiproject/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="384">
-          <caret line="16" column="19" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-          <folding>
-            <element signature="e#193#208#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="538">
+          <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../qinghaiproject/qinghaiproject/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
@@ -280,29 +760,323 @@
         </state>
       </provider>
     </entry>
-    <entry file="uml://JavaScript-modules-diagram/E:/OneDrive/OneDrive - stu.cdu.edu.cn/zty-c/Desktop/chongqingproject">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
+    <entry file="file://$PROJECT_DIR$/../provinceproject/provinceproject/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../provinceproject/provinceproject/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chongqingpersonproject/chongqingpersonproject/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sikuyiproject/sikuyiproject/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../provinceproject/provinceproject/spiders/anhui.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1463">
+          <caret line="90" column="51" lean-forward="true" selection-start-line="90" selection-start-column="51" selection-end-line="90" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../provinceproject/provinceproject/spiders/anhuibeian.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../provinceproject/provinceproject/spiders/beijing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="30" column="39" lean-forward="true" selection-start-line="30" selection-start-column="39" selection-end-line="30" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../provinceproject/provinceproject/spiders/guangxi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1151">
+          <caret line="67" column="33" lean-forward="true" selection-start-line="67" selection-start-column="33" selection-end-line="67" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../provinceproject/provinceproject/spiders/qinghai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="84" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../provinceproject/provinceproject/spiders/ningxia.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-72" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../provinceproject/provinceproject/spiders/neimenggu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="17" column="41" lean-forward="true" selection-start-line="17" selection-start-column="41" selection-end-line="17" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../provinceproject/provinceproject/spiders/liaoning.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../provinceproject/provinceproject/spiders/jiangxi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="82" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../provinceproject/provinceproject/spiders/hunan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1176">
+          <caret line="57" column="47" selection-start-line="57" selection-start-column="47" selection-end-line="57" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../provinceproject/provinceproject/spiders/hubei.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="504">
+          <caret line="24" column="32" lean-forward="true" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../provinceproject/provinceproject/spiders/henanbeian.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../provinceproject/provinceproject/spiders/henan.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../provinceproject/provinceproject/spiders/hainan.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="28" column="142" lean-forward="true" selection-start-line="28" selection-start-column="122" selection-end-line="28" selection-end-column="142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../qinghaiproject/qinghaiproject/start.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state>
-          <ID>JavaScript-modules-diagram</ID>
-          <OriginalElement>$PROJECT_DIR$</OriginalElement>
-          <nodes />
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="767.5" y="500.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>All</Category>
-          </Categories>
-          <VISIBILITY>Details</VISIBILITY>
+          <caret selection-end-line="1" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sikucreditproject/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="26" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sikucreditproject/sikucreditproject/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="36" />
+          <folding>
+            <element signature="e#24#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sikuyiproject/sikuyiproject/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="92" column="17" lean-forward="true" selection-start-line="92" selection-start-column="17" selection-end-line="92" selection-end-column="17" />
+          <folding>
+            <element signature="e#24#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sikuyiproject/sikuyiproject/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="68" column="170" lean-forward="true" selection-start-line="68" selection-start-column="170" selection-end-line="68" selection-end-column="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sikucreditproject/sikucreditproject/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="e#168#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../provinceproject/provinceproject/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="116" column="47" lean-forward="true" selection-start-line="116" selection-end-line="116" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sikucreditproject/sikucreditproject/assist.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="3" column="12" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sikucreditproject/sikucreditproject/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sikuyiproject/sikuyiproject/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3060">
+          <caret line="147" column="17" selection-start-line="147" selection-start-column="4" selection-end-line="147" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sikuyiproject/sikuyiproject/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="103" column="9" lean-forward="true" selection-start-line="100" selection-start-column="8" selection-end-line="103" selection-end-column="9" />
+          <folding>
+            <element signature="e#193#208#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sikucreditproject/sikucreditproject/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chongqingpersonproject/chongqingpersonproject/spiders/chongqingperson.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="862">
+          <caret line="288" column="43" lean-forward="true" selection-start-line="288" selection-start-column="43" selection-end-line="288" selection-end-column="43" />
+          <folding>
+            <element signature="e#24#35#0" expanded="true" />
+            <element signature="e#19333#19336#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chongqingpersonproject/chongqingpersonproject/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="93" column="25" lean-forward="true" selection-start-line="93" selection-start-column="25" selection-end-line="93" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chongqingpersonproject/chongqingpersonproject/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="61" column="17" lean-forward="true" selection-start-line="61" selection-start-column="17" selection-end-line="61" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../chongqingpersonproject/chongqingpersonproject/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="768">
+          <caret line="32" column="31" lean-forward="true" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../qinghaiproject/qinghaiproject/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="905">
+          <caret line="46" column="30" lean-forward="true" selection-start-line="46" selection-start-column="30" selection-end-line="46" selection-end-column="30" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/chongqingproject/spiders/chongqing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="484">
-          <caret line="65" column="28" lean-forward="true" selection-start-line="65" selection-start-column="28" selection-end-line="65" selection-end-column="28" />
+        <state relative-caret-position="634">
+          <caret line="184" column="41" lean-forward="true" selection-start-line="184" selection-start-column="41" selection-end-line="184" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sikucreditproject/sikucreditproject/spiders/sikucredit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="36" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="36" />
           <folding>
-            <element signature="e#23#62#0" expanded="true" />
+            <element signature="e#24#46#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sikuyiproject/start.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="24">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="35" selection-end-line="1" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sikuyiproject/sikuyiproject/spiders/sikuyi.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="47" column="26" lean-forward="true" selection-start-line="47" selection-start-column="26" selection-end-line="47" selection-end-column="26" />
+          <folding>
+            <element signature="e#24#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sikuyiproject/sikuyiproject/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="105" column="24" lean-forward="true" selection-start-line="105" selection-start-column="24" selection-end-line="105" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../qinghaiproject/qinghaiproject/spiders/qinghai.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sikucreditproject/sikucreditproject/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="14" column="14" lean-forward="true" selection-start-line="6" selection-end-line="14" selection-end-column="14" />
+          <folding>
+            <element signature="e#193#207#0" expanded="true" />
+            <marker date="1569807555324" expanded="true" signature="564:1328" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../sikucreditproject/sikucreditproject/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="857">
+          <caret line="116" column="27" lean-forward="true" selection-start-line="114" selection-end-line="116" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chongqingproject/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1621">
+          <caret line="70" column="57" lean-forward="true" selection-start-line="70" selection-start-column="57" selection-end-line="70" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chongqingproject/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="16" column="37" lean-forward="true" selection-start-line="16" selection-start-column="37" selection-end-line="16" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chongqingproject/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="696">
+          <caret line="61" column="36" selection-start-line="61" selection-start-column="36" selection-end-line="61" selection-end-column="36" />
+          <folding>
+            <element signature="e#194#230#0" expanded="true" />
           </folding>
         </state>
       </provider>

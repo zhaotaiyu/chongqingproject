@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../chongqingpersonproject/.idea/chongqingpersonproject.iml" filepath="$PROJECT_DIR$/../chongqingpersonproject/.idea/chongqingpersonproject.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/chongqingproject.iml" filepath="$PROJECT_DIR$/.idea/chongqingproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../provinceproject/.idea/provinceproject.iml" filepath="$PROJECT_DIR$/../provinceproject/.idea/provinceproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../qinghaiproject/.idea/qinghaiproject.iml" filepath="$PROJECT_DIR$/../qinghaiproject/.idea/qinghaiproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sikucreditproject/.idea/sikucreditproject.iml" filepath="$PROJECT_DIR$/../sikucreditproject/.idea/sikucreditproject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sikuyiproject/.idea/sikuyiproject.iml" filepath="$PROJECT_DIR$/../sikuyiproject/.idea/sikuyiproject.iml" />
     </modules>
   </component>
 </project>

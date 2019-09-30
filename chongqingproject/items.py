@@ -14,7 +14,7 @@ class ChongqingprojectItem(scrapy.Item):
     pass
 #企业及资质信息
 class CompanyInformationItem(scrapy.Item):
-	collection = "chongqing.companyinformation"
+	collection = "companyinformation"
 	province_company_id = scrapy.Field()
 	social_credit_code = scrapy.Field()
 	company_name = scrapy.Field()
@@ -52,7 +52,7 @@ class CompanyInformationItem(scrapy.Item):
 	is_delete = scrapy.Field()
 
 class PersonInformationItem(scrapy.Item):
-	collection = "chongqing.personinformation"
+	collection = "personinformation"
 	person_name = scrapy.Field()
 	province_person_id = scrapy.Field()
 	company_name = scrapy.Field()
@@ -75,7 +75,7 @@ class PersonInformationItem(scrapy.Item):
 	status = scrapy.Field()
 
 class PersonCertificateItem(scrapy.Item):
-	collection = "chongqing.personcertificate"
+	collection = "personcertificate"
 	province_person_id = scrapy.Field()
 	aptitude_name = scrapy.Field()
 	certificate_num = scrapy.Field()
@@ -101,7 +101,7 @@ class PersonCertificateItem(scrapy.Item):
 	person_name = scrapy.Field()
 
 class AptitudeItem(scrapy.Item):
-	collection = "chongqing.companyaptitude"
+	collection = "companyaptitude"
 	province_company_id = scrapy.Field()
 	aptitude_id = scrapy.Field()
 	aptitude_organ = scrapy.Field()
@@ -126,7 +126,7 @@ class AptitudeItem(scrapy.Item):
 	company_name = scrapy.Field()
 
 class BeianItem(scrapy.Item):
-	collection = "province.beianinformation"
+	collection = "beianinformation"
 	company_name = scrapy.Field()
 	social_credit_code = scrapy.Field()
 	record_province = scrapy.Field()
